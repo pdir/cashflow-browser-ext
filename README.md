@@ -3,6 +3,12 @@
 visit extension website for details
 https://kaufobjekt.com/cashflow-browser-ext
 
+![alt Toolbar in der Listenansicht](https://kaufobjekt.com/files/produkte/cashflow-ext/cashflow_toolbar.png)
+Toolbar in der Listenansicht
+
+![alt Detailansicht](https://kaufobjekt.com/assets/images/6/listenansicht_screenshot_clean-06ad2ef0.png)
+Detailansicht
+
 ## Releases
 LITE Version
 
@@ -20,4 +26,4 @@ PRO Version
 - export watchlist to asana
 - export watchlist to excel
 
-presented by https://kaufobjekt.com
+presented by [Zwangsversteigerungen](https://kaufobjekt.com)
