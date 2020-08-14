@@ -20,4 +20,4 @@ PRO Version
 - export watchlist to asana
 - export watchlist to excel
 
-presented by [kaufobjekt.com(https://kaufobjekt.com)]
+presented by https://kaufobjekt.com
